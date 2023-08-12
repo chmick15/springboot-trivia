@@ -1,5 +1,6 @@
 com/nicolas/trivia/ServletInitializer.class
 com/nicolas/trivia/TriviaApplication.class
+com/nicolas/trivia/repository/CategoryRepository.class
 com/nicolas/trivia/entities/Question.class
-com/nicolas/trivia/entities/Categoria.class
 com/nicolas/trivia/TriviaController.class
+com/nicolas/trivia/entities/Category.class

@@ -1,5 +1,6 @@
 /Users/chmick/Documents/bootcamp_java/springboot_trivia/trivia/src/main/java/com/nicolas/trivia/ServletInitializer.java
 /Users/chmick/Documents/bootcamp_java/springboot_trivia/trivia/src/main/java/com/nicolas/trivia/entities/Question.java
-/Users/chmick/Documents/bootcamp_java/springboot_trivia/trivia/src/main/java/com/nicolas/trivia/entities/Categoria.java
 /Users/chmick/Documents/bootcamp_java/springboot_trivia/trivia/src/main/java/com/nicolas/trivia/TriviaController.java
+/Users/chmick/Documents/bootcamp_java/springboot_trivia/trivia/src/main/java/com/nicolas/trivia/repository/CategoryRepository.java
+/Users/chmick/Documents/bootcamp_java/springboot_trivia/trivia/src/main/java/com/nicolas/trivia/entities/Category.java
 /Users/chmick/Documents/bootcamp_java/springboot_trivia/trivia/src/main/java/com/nicolas/trivia/TriviaApplication.java
